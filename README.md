@@ -2,7 +2,7 @@
 
 curso de Fernando Herrera sobre Nodejs
 
-Mi primera app en Node
+Mi primera app en Node tabla de multiplicar
 
 ```
 Options:
